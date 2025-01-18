@@ -7,7 +7,7 @@ handler = DynamixelHandler(1000000)
 #All Dynamixel Motors Used and their IDs
 DYN_1 = 8
 DYN_2 = 5
-
+#Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 handler.open_port()
 
 handler.set_pos(DYN_1, 200)
